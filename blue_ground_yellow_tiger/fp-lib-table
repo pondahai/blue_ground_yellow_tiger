@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name blue_ground_yellow_tiger)(type KiCad)(uri /Users/test/Dropbox/kicad/blue_ground_yellow_tiger)(options "")(descr ""))
+  (lib (name tiny85_project)(type KiCad)(uri ${KIPRJMOD}/tiny85_project.pretty)(options "")(descr ""))
+)
